@@ -16,7 +16,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Video Walkthrough](https://www.loom.com/share/7188adf160b64bdd900d6a200f5345c2) .
 
 ## App Brainstorming (Step 4)
 
